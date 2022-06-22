@@ -1,4 +1,4 @@
 # TimeTrackerForIDEA
 
 master:
-[![Build Status](https://travis-ci.com/Dmitrii-Stukalov/TimeTrackerForIDEA.svg?branch=master)](https://travis-ci.com/Dmitrii-Stukalov/TimeTrackerForIDEA)
+[![Build Status](https://app.travis-ci.com/Dmitrii-Stukalov/TimeTrackerForIDEA.svg?branch=master)](https://app.travis-ci.com/Dmitrii-Stukalov/TimeTrackerForIDEA.svg?branch=master)
